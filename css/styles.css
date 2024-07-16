@@ -142,7 +142,7 @@ nav a:hover {
 /* Hero Section */
 
 .hero {
-  background-image: url("C:/web-design/Images/watercolor-bg.jpg");
+  background-image: url("Images/watercolor-bg.jpg");
   background-color: #ac8555; 
   background-size: cover;
   background-position: center;
@@ -253,7 +253,7 @@ nav a:hover {
 
 /* Features Section */
 .features {
-  background-image: url("C:/web-design/Images/watercolor-bg.jpg");
+  background-image: url("Images/watercolor-bg.jpg");
   background-color: #ac8555; 
   background-size: cover;
   background-position: center;
@@ -320,7 +320,7 @@ nav a:hover {
 
 /* Features 2 Sections */
 .features2 {
-  background-image: url("C:/web-design/Images/watercolor-bg.jpg");
+  background-image: url("Images/watercolor-bg.jpg");
   background-color: #ac8555; 
   background-size: cover;
   background-position: center;
@@ -489,7 +489,7 @@ nav a:hover {
 
 /* Hero2 Section */
 .hero2 {
-  background-image: url("C:/web-design/Images/hero2-bg.jpg");
+  background-image: url("Images/hero2-bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
